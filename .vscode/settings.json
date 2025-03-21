@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "dd",
+            "database": "${workspaceFolder:crud}/pokemon.db"
+        }
+    ]
+}
