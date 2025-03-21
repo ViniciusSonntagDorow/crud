@@ -27,17 +27,17 @@ This project is a Pokémon CRUD (Create, Read, Update, Delete) application that 
 ## Setup
 
 1. Clone the repository:
-   git clone git@github.com:ViniciusSonntagDorow/crud_pokemon.git
-   cd crud_pokemon
+   `git clone git@github.com:ViniciusSonntagDorow/crud_pokemon.git`
+   `cd crud_pokemon`
 
 2. Create a virtual enviroment and activate it:
-    python -m venv .venv
-    source .venv/bin/activate 
+    `python -m venv .venv`
+    `source .venv/bin/activate`
     or
-    .venv\Scripts\activate\
+    `.venv\Scripts\activate\`
 
 3. Install dependencies
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 4. Run the application
-    python src/main.py
+    `python src/main.py`
