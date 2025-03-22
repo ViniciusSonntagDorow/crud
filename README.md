@@ -27,12 +27,12 @@ This project is a simple Pok√©mon CRUD application that interacts with the [Pok√
 ## Setup
 
 1. Clone the repository:
-   git clone git@github.com:ViniciusSonntagDorow/crud_pokemon.git
-   cd crud_pokemon
+   `git clone git@github.com:ViniciusSonntagDorow/crud_pokemon.git`
+   `cd crud_pokemon`
 
 2. Create a virtual enviroment and activate it:
-    python -m venv .venv
-    source .venv/bin/activate 
+    `python -m venv .venv`
+    `source .venv/bin/activate`
     or
     `.venv\Scripts\activate\`
 
@@ -40,4 +40,4 @@ This project is a simple Pok√©mon CRUD application that interacts with the [Pok√
     `pip install -r requirements.txt`
 
 4. Run the application
-    python src/main.py
+    `python src/main.py`
